@@ -35,7 +35,8 @@ function performSearch() {
     if (query) {
         document.getElementById('results').innerHTML = `<p>Searching for: <strong>${query}</strong></p>`;
         // Here you would typically call your search function or API
-        // For demonstration, we'll just show a static result
+        
+        // generateResponse()
         setTimeout(() => {
             document.getElementById('results').innerHTML += `<p>Results for: <strong>${query}</strong></p>`;
         }, 1000);
