@@ -70,6 +70,7 @@ button img {
     margin-top: 0px;
     margin-bottom: 0px;
     margin-right: 30px;
-    background-color: rgb(246, 241, 231);
+    background-color: rgb(249, 247, 243);
     border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
