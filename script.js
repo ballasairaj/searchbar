@@ -50,4 +50,3 @@ const generateResponse = (userMessage) => {
                 performSearch();
             }
         });
-
